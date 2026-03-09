@@ -336,6 +336,40 @@ App will be available at **`http://localhost:5173`**
 
 ---
 
+## 💰 Pricing & Coupons
+
+<div align="center">
+
+### Plans
+
+| Feature | 🆓 Free | 👑 Premium |
+|:---|:---:|:---:|
+| Upload & parse resume | ✅ | ✅ |
+| All 6 templates | ✅ | ✅ |
+| Portfolio editor | ✅ | ✅ |
+| Public portfolio link | ✅ | ✅ |
+| Dark / light mode | ✅ | ✅ |
+| Max portfolios | **2** | **Unlimited** |
+| Download portfolio code | ❌ | ✅ |
+| Priority support | ❌ | ✅ |
+| **Price** | **₹0** | **₹19 one-time** |
+
+</div>
+
+### 🎟️ Available Coupon Codes
+
+Apply these codes on the Dashboard → Upgrade to Premium:
+
+| Coupon Code | Discount | Description |
+|:---:|:---:|:---|
+| `FREE19` | 100% off (₹19) | Get Premium completely free |
+
+> **How to apply:** Go to your **Dashboard** → click **Upgrade to Premium** → enter the coupon code → click **Apply**.
+
+> ℹ️ Coupons are managed via the admin API (`POST /api/billing/admin/coupons`) and stored in Firestore. Contact the repo owner if a code has expired.
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Here's how to get started:
