@@ -32,13 +32,46 @@
 
 ---
 
-<!-- Demo screenshot placeholder -->
-> 📸 **Screenshot** — Add a screenshot or screen recording of your app here by uploading an image to the repo and updating the path below.
+</div>
 
-<!-- Replace the src below with your actual screenshot path, e.g. docs/screenshot.png -->
-<!--
-<img src="docs/demo.png" alt="App Screenshot" width="900" style="border-radius:12px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);"/>
--->
+---
+
+## 📸 Screenshots
+
+<div align="center">
+
+### 🏠 Home Page
+<img src="docs/screenshots/homepage.png" alt="Home Page" width="900"/>
+
+<br/>
+
+### 🔐 Authentication
+<img src="docs/screenshots/auth.png" alt="Auth Page" width="900"/>
+
+<br/>
+
+### 📤 Upload Resume
+<img src="docs/screenshots/upload.png" alt="Upload Resume" width="900"/>
+
+<br/>
+
+### 🤖 AI Parse Preview
+<img src="docs/screenshots/preview.png" alt="Resume Parse Preview" width="900"/>
+
+<br/>
+
+### 🎨 Choose Template
+<img src="docs/screenshots/templates.png" alt="Template Selection" width="900"/>
+
+<br/>
+
+### 📊 Dashboard
+<img src="docs/screenshots/dashboard.png" alt="Dashboard" width="900"/>
+
+<br/>
+
+### ✏️ Portfolio Editor
+<img src="docs/screenshots/editor.png" alt="Portfolio Editor" width="900"/>
 
 </div>
 
