@@ -81,8 +81,8 @@ Upload your resume (PDF or DOCX), let the AI extract your information, choose a 
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd "Resume to portfolio"
+git clone https://github.com/Sarbeswarpanda04/Resume-to-portfolio.git
+cd Resume-to-portfolio
 ```
 
 ### 2. Run the automated setup script
